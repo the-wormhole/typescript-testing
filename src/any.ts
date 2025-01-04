@@ -22,3 +22,5 @@ function double(value: any): any {
 
 console.log(double("1"), typeof double("1"));
 console.log(double(1))
+
+//Useful when migrating from js to ts because using 'any' won't cause errors initially
