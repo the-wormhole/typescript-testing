@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev":"tsc *.ts && node *.js"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
