@@ -25,7 +25,9 @@ myObj.a = 3235235235
 myObj.c = true
 console.log(myObj);
 
-let obj = {             //object inference
+//object inference
+
+let obj = {             
     name:"abc",
     id:32532
 }
